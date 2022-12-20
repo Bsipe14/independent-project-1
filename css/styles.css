@@ -9,3 +9,25 @@ li{
   font-size: large;
   font-family: sans-serif;
 }
+
+.game{
+  background-color: yellow;
+}
+
+h1{
+  border: 20px solid orange;
+  background-color: blue;
+  color: white;
+}
+
+.bazinga{
+  text-align: center;
+}
+
+h2{
+  text-shadow: 2px 2px black;
+}
+
+body{
+  background-color: orangered;
+}
