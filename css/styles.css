@@ -24,8 +24,15 @@ h1{
   text-align: center;
 }
 
+.bazinga2{
+  text-align: center;
+  font-size: large;
+  font-family: arial;
+}
+
 h2{
   text-shadow: 2px 2px yellow;
+  font-family: Times
 }
 
 body{
