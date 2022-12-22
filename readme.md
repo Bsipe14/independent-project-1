@@ -2,7 +2,7 @@
 
 #### By Ben Sipe
 
-#### An independent project for class
+#### A HTML document for a start of a independent project portfolio
 
 ## Technologies Used
 
@@ -14,8 +14,9 @@
 A html program to meet the requirements of fidgetech/epicodus independent project contains links to interests and more.
 
 ## Setup/Installation Requirements
-
-* Open on gh pages
+* copy link below
+* https://github.com/Bsipe14/independent-project-1.git
+* or click on green code button and download zip
 
 
 
